@@ -4,7 +4,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 /**
- * Created by david on 2015-06-04.
+ * Created by sridharan.
  */
 public class ShortenUrlRequest {
     @NotNull
