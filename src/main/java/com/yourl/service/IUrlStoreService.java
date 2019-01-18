@@ -1,7 +1,7 @@
 package com.yourl.service;
 
 /**
- * Created by Sridharan.
+ * Created by sridharan.
  */
 public interface IUrlStoreService {
     String findUrlById(String id);
